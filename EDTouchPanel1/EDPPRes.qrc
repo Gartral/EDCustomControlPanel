@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PanelButton1.png</file>
+        <file>PanelButton2.png</file>
+        <file>PanelButton3.png</file>
+        <file>PanelButton4.png</file>
+        <file>header1.png</file>
+        <file>header2.png</file>
+        <file>hud_galaxy_map.png</file>
+        <file>hud_move_down.png</file>
+        <file>hud_move_left.png</file>
+        <file>hud_move_right.png</file>
+        <file>hud_move_up.png</file>
+        <file>hud_nextpanel.png</file>
+        <file>hud_prvpanel.png</file>
+        <file>hud_select.png</file>
+        <file>hud_solar_system_map.png</file>
+        <file>flight_supercruise.png</file>
+        <file>flight_fullstop.png</file>
+        <file>flight_vel_25.png</file>
+        <file>flight_vel_50.png</file>
+        <file>flight_vel_75.png</file>
+        <file>flight_vel_100.png</file>
+        <file>flight_vel_down.png</file>
+        <file>flight_vel_up.png</file>
+        <file>flight_extlight.png</file>
+        <file>flight_fire_2nd.png</file>
+        <file>flight_fire_main.png</file>
+        <file>flight_fssmode.png</file>
+        <file>flight_landinggear.png</file>
+        <file>flight_next_firegr.png</file>
+        <file>flight_orbitlines.png</file>
+        <file>flight_prv_firegr.png</file>
+        <file>flight_frameshift.png</file>
+        <file>hud_return.png</file>
+    </qresource>
+</RCC>
